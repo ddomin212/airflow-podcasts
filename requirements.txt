@@ -1,0 +1,8 @@
+vosk
+pandas
+xmltodict
+requests
+pydub
+ffmpeg
+python-dotenv
+revChatGPT
